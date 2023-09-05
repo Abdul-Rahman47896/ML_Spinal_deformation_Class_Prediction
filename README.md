@@ -19,3 +19,5 @@ The main goal of this project is to demonstrate the ability to:
 * Clean and preprocess the dataset.
 * Utilize the dataset to train supervised learning algorithms.
 * Build a model that can predict patient conditions based on the provided biomechanic attributes.
+
+# Note: Please view the code in colab for better view.
